@@ -1,4 +1,4 @@
-# Whose Trust Is It Anyway? Project Configuration in AI Development Tools
+# Whose Trust Is It Anyway? Configuration Boundaries in AI Development Tools
 
 **Kundan Yadav · April 2026 · Melbourne, Australia**
 
